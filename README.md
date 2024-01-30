@@ -7,11 +7,6 @@ A parser for word and pdf resumes
 3) The `data_clean` folder contains the fetched information from the raw input CV's using the `main` script in the `/scripts` directory.
 4) Inside the `/scripts` directory, the `cvparser.py` module contains all the main implementaions, which aare called by the `main.py` on the two CVs inside the `data_raw` directory. 
 
-## Information 
-- Author: Hair Albeiro Parra Barrera 
-- Date: 2020-03-09
-
-
 ### Demo (main.py) 
 
 ```python 
